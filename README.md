@@ -6,7 +6,7 @@ An end-to-end data analysis project demonstrating data cleaning, SQL querying, a
 * **`data/raw/`** - Contains the original, uncleaned raw dataset.
 * **`data/processed/`** - Contains the cleaned dataset (`Cleaned_Supermarket_Sales.csv`) used for production.
 * **`SQL/`** - Contains verified SQL analysis queries (`queries.sql`).
-* **`Dashboard/`** - Contains the Power BI `.pbix` file and a visual preview.
+* **`Dashboard visual`** - Contains the Power BI `.pbix` file and a visual preview.
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 * **Data Cleaning & Transformation:** Handled messy formatting (such as embedded symbols) to prepare raw data for analysis.
