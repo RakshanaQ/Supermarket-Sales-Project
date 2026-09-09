@@ -14,4 +14,4 @@ An end-to-end data analysis project demonstrating data cleaning, SQL querying, a
 * **Power BI:** Built a 7-chart interactive dashboard tracking branch performance, customer types, payment methods, gender spend, city gross income, and ratings.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](Dashboard visual.png)
+## Dashboard Preview-> (Dashboard visual.png)
